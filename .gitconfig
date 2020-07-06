@@ -3,3 +3,6 @@
   email = carlosanibaltejada@gmail.com
 
 
+[includeIf "gitdir:/opt/data/work/sample/"]
+  path = /opt/data/work/sample/.gitconfig
+
